@@ -1,0 +1,15 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(250, 206, 9);
+}
+
+.navBar {
+    display: flex;
+    margin-left: 10vw;
+}
+
+.navLink {
+    margin: 1rem;
+}

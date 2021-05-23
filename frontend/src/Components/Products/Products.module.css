@@ -1,0 +1,8 @@
+.productsArea {
+    padding: 2rem 0vw 0 10vw;
+}
+
+.flexContainer{
+    display: flex;
+    flex-wrap: wrap;
+}

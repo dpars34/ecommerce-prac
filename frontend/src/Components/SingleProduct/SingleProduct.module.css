@@ -1,0 +1,28 @@
+.singleProduct {
+    border: solid 2px black;
+    border-radius: 20px;
+    
+    margin: 1rem;
+    height: 20rem;
+    width: 20rem;
+}
+
+.titleBox {
+    background-color: rgb(250, 206, 9);
+    padding: 1rem;
+    border-radius: 20px 20px 0 0;
+}
+
+.detailsBox{
+    padding: 1rem;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(179, 0, 0);
+}
+
+.image {
+    height: 10rem;
+    width: 10rem;
+}
